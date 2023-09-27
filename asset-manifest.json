@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/random-star-wars-quotes/static/css/main.0b5666f6.css",
+    "main.js": "/random-star-wars-quotes/static/js/main.5641ee47.js",
+    "static/js/787.93ee7cdd.chunk.js": "/random-star-wars-quotes/static/js/787.93ee7cdd.chunk.js",
+    "index.html": "/random-star-wars-quotes/index.html",
+    "main.0b5666f6.css.map": "/random-star-wars-quotes/static/css/main.0b5666f6.css.map",
+    "main.5641ee47.js.map": "/random-star-wars-quotes/static/js/main.5641ee47.js.map",
+    "787.93ee7cdd.chunk.js.map": "/random-star-wars-quotes/static/js/787.93ee7cdd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b5666f6.css",
+    "static/js/main.5641ee47.js"
+  ]
+}
