@@ -13,3 +13,10 @@
 .twitterBtn {
   margin: 2rem;
 }
+
+.jumbotron {
+  padding: 2rem 1rem;
+  margin-bottom: 2rem;
+  background-color: #ffffff;
+  border-radius: 0.3rem;
+}
