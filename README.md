@@ -2,7 +2,7 @@
 
 ## Flick through random Star Wars quotes
 
-This project is part of the free code camp course.
+This project quite old now and was built as  part of the free code camp course.
 It is built with React and React-Bootstrap.
 
 ## Getting started
